@@ -1,0 +1,7 @@
+.classpath
+.project
+.mvn/
+.settings/
+bin/
+target/
+src/main/resources/static/bower_components/
